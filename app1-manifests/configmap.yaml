@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: shapes-colors
+data:
+  shape1: "red"
+  shape2: "green"
+  shape3: "blue"
+  shape4: "yellow"
+  shape5: "purple"
